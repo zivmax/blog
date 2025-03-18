@@ -56,16 +56,26 @@ export const profileConfig: ProfileConfig = {
   bio: 'Be adventurous.',
   links: [
     {
+      name: 'GitHub',
+      icon: 'ant-design:github-outlined',
+      url: 'https://github.com/zivmax',
+    },
+    {
       name: 'Email',
-      icon: 'material-symbols:mail-rounded',  // Visit https://icones.js.org/ for icon codes
+      icon: 'ant-design:mail-outlined',  // Visit https://icones.js.org/ for icon codes
       // You will need to install the corresponding icon set if it's not already included
       // `pnpm add @iconify-json/<icon-set-name>`
       url: 'mailto:zivmax@foxmail.com',
+    }, 
+    {
+      name: 'QQ',
+      icon: 'ant-design:qq-outlined',
+      url: '/assets/images/qq.webp',
     },
     {
-      name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/zivmax',
+      name: 'WeChat',
+      icon: 'ant-design:wechat-outlined',
+      url: '/assets/images/wechat.webp',
     },
   ],
 }
