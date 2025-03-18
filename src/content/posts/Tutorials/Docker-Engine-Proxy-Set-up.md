@@ -56,7 +56,7 @@ allow-lan: true
 ### 设置 Docker Image 的代理环境变量
 
 在 Dockerfile 中加入以下命令：
-```Dockerfile
+```dockerfile
 ENV http_proxy http://172.17.0.1:7890
 ENV https_proxy http://172.17.0.1:7890
 ENV all_proxy=socks5://172.17.0.1:7891
@@ -71,7 +71,7 @@ ENV NO_PROXY localhost, # 这里可以接着加入其他地址，用逗号隔开
 现在在 Build 的过程中，Docker 就能够使用 Host 的代理服务了。
 
 如果一些包管理器不会直接使用环境变量设置的代理地址，就需要我们在 Dockerfile 中手动设置代理地址，比如 `npm`：
-```Dockerfile
+```dockerfile
 RUN npm config set proxy $HTTP_PROXY
 RUN npm config set https-proxy $HTTPS_PROXY
 ```
@@ -82,7 +82,7 @@ RUN npm config set https-proxy $HTTPS_PROXY
 
 
 添加以下代码到未配置代理的 Dockerfile 中：
-```Dockerfile
+```dockerfile
 ARG HOST_IP
 ARG HTTP_PORT
 ARG SOCKS_PORT
