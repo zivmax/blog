@@ -6,7 +6,7 @@ tags:
 - WSL
 - Fonts
 - LaTeX
-category: 经验
+category: Practice Tips
 ---
 
 Recently, while working on my writing projects in WSL (Windows Subsystem for Linux), I encountered issues with the limited font selection when using XeLaTeX to compile my documents. XeLaTeX, a popular LaTeX compiler, relies on the system font library, which means maintaining the font library in WSL is crucial for a smooth typesetting experience. To address this problem, I decided to explore ways to synchronize the fonts installed on my Windows system with WSL.

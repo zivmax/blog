@@ -4,10 +4,10 @@ description: Flappy-bird game on Longan Nano. (Individual Project)
 published: 2024-05-30 11:01:25
 tags:
 - CS110
-- 计算机体系架构
-- 上科大
-- 计算机科学
-category: 项目
+- Computer Architecture
+- STU
+- CS
+category: Course Project
 ---
 
 [Computer Architecture I](https://toast-lab.sist.shanghaitech.edu.cn/courses/CS110@ShanghaiTech/Spring-2024/index.html) | [ShanghaiTech University](https://www.shanghaitech.edu.cn/)

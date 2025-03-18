@@ -5,9 +5,9 @@ published: 2024-01-25 10:41:37
 tags:
   - C++
   - CS101
-  - 上科大
-  - 计算机科学
-category: 笔记
+  - STU
+  - CS
+category: Notes
 ---
 
 <br>

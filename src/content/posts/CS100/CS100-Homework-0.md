@@ -3,11 +3,11 @@ title: CS100 Homework [0]
 description: Read this before you start coding your homework.
 published: 2023-03-04 18:03:44
 tags:
-  - C 语言
+  - C Lang
   - CS100
-  - 上科大
-  - 计算机科学
-category: 作业
+  - STU
+  - CS
+category: Course Assignment
 ---
 
 # Important message on plagiarism

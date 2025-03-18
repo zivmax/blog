@@ -4,10 +4,10 @@ description: This is the first post of my new Astro blog.
 published: 2024-04-25 9:05:51
 tags:
 - CS110
-- 计算机体系架构
-- 上科大
-- 计算机科学
-category: 作业
+- Computer Architecture
+- STU
+- CS
+category: Course Assignment
 ---
 
 **Goals**

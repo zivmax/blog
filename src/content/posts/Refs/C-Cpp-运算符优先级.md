@@ -4,9 +4,9 @@ published: 2023-03-22 15:40:48
 description: 方便自己查询的运算符优先级表
 tags:
 - C++
-- C 语言
-- 表格
-category: 参考信息
+- C Lang
+- Table
+category: Reference
 ---
 
 

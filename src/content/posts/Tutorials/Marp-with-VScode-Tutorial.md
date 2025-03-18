@@ -5,7 +5,7 @@ published: 2024-06-24 15:51:14
 tags:
 - Marp
 - Slides
-category: 经验
+category: Practice Tips
 ---
 
 # Marp with VScode Tutorial for Anyone

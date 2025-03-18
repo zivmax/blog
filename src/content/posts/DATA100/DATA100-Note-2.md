@@ -4,9 +4,9 @@ description: 转写自组会上讲解使用的 Slides，高度凝练了 DATA100 
 published: 2024-03-26 18:19:11
 tags:
 - DATA100
-- 计算机科学
+- CS
 - 数据科学
-category: 笔记
+category: Notes
 ---
 
 转写自组会上讲解使用的 Slides，高度凝练了 DATA100 中 Pandas 的教学内容。

@@ -4,10 +4,10 @@ published: 2024-04-02 11:26:20
 description: A simple 2D-Convolution algorithm in C and RISC-V and a padded 2D-Convolution in RISC-V.  (Individual Project)
 tags:
 - CS110
-- 计算机体系架构
-- 上科大
-- 计算机科学
-category: 项目
+- Computer Architecture
+- STU
+- CS
+category: Course Project
 ---
 
 # Project 1.2: 2D-Convolution in C and RISC-V (Individual Project)

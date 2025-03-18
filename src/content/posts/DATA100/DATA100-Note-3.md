@@ -4,9 +4,9 @@ description: Introduction to EDA and Data Wrangling.
 published: 2024-03-26 18:31:28
 tags:
 - DATA100
-- 计算机科学
+- CS
 - 数据科学
-category: 笔记
+category: Notes
 ---
 
 # **EDA and Data Wrangling**

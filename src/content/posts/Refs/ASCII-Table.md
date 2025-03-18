@@ -4,8 +4,8 @@ description: This is the first post of my new Astro blog.
 published: 2024-01-18 17:27:05
 tags:
 - ASCII
-- 表格
-category: 参考信息
+- Table
+category: Reference
 ---
 
 The full table of ASCII characters. 

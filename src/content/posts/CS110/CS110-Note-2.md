@@ -4,10 +4,10 @@ description: Arithmetic for Computers
 published: 2024-02-23 09:37:52
 tags:
 - CS110
-- 计算机体系架构
-- 上科大
-- 计算机科学
-category: 笔记
+- Computer Architecture
+- STU
+- CS
+category: Notes
 ---
 
 

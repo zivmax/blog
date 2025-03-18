@@ -4,9 +4,9 @@ description: 第二周的科研学习记录。
 published: 2024-07-08 23:28:35
 tags:
 - Unfinished
-- 上科大
-- 计算机科学
-category: 科研
+- STU
+- CS
+category: Research
 ---
 
 # 尝试深入理解 Encoder 和 Decoder 架构

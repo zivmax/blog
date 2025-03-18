@@ -5,7 +5,7 @@ published: 2024-03-24 09:54:14
 tags:
 - Docker
 - Proxy
-category: 经验
+category: Practice Tips
 ---
 
 再不记一些解决问题的方法，就有太多东西遗落在我的记忆中了。。。

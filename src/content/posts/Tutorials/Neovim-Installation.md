@@ -5,7 +5,7 @@ published: 2024-03-24 11:46:59
 tags:
 - Neovim
 - Linux
-category: 经验
+category: Practice Tips
 ---
 
 从这篇开始，以后还是尽可能用英文记录。

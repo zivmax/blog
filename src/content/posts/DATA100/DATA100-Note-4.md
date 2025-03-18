@@ -5,9 +5,9 @@ published: 2024-04-3 18:31:28
 tags:
 - Unfinished
 - DATA100
-- 计算机科学
+- CS
 - 数据科学
-category: 笔记
+category: Notes
 ---
 
 # **Visualization**

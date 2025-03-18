@@ -4,10 +4,10 @@ description: This is the first post of my new Astro blog.
 published: 2023-03-14 10:45:34
 tags:
 - CS50X
-- C 语言
-- 计算机科学
-- 精校翻译
-category: 笔记
+- C Lang
+- CS
+- Revised Translation
+category: Notes
 ---
 
 [本篇在CS50X官网的英文原版](https://cs50.harvard.edu/x/2023/notes/2/)

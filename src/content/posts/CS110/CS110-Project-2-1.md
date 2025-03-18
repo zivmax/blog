@@ -4,10 +4,10 @@ published: 2024-04-25 11:01:25
 description: A RV32C Toy CPU running RVC instructions. (Individual Project)
 tags:
 - CS110
-- 计算机体系架构
-- 上科大
-- 计算机科学
-category: 项目
+- Computer Architecture
+- STU
+- CS
+category: Course Project
 ---
 
 # Project 2: A RV32C Toy CPU

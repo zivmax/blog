@@ -3,11 +3,11 @@ title: CS100 Homework [7]
 description: This is the first post of my new Astro blog.
 published: 2023-05-09 10:04:31
 tags:
-  - C 语言
+  - C++
   - CS100
-  - 上科大
-  - 计算机科学
-category: 作业
+  - STU
+  - CS
+category: Course Assignment
 ---
 
 **Problems**:

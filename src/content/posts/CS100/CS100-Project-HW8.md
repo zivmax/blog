@@ -3,11 +3,12 @@ title: CS100-Project(HW8)
 description: This is the first post of my new Astro blog.
 published: 2023-09-27 10:47:15
 tags:
-  - C 语言
+  - C++
+  - CMake
   - CS100
-  - 上科大
-  - 计算机科学
-category: 项目
+  - STU
+  - CS
+category: Course Project
 ---
 
 ---

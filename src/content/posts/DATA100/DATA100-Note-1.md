@@ -4,9 +4,9 @@ description: Breif introduction to Data Science
 published: 2024-03-26 18:07:36
 tags:
 - DATA100
-- 计算机科学
+- CS
 - 数据科学
-category: 笔记
+category: Notes
 ---
 
 # 1  Introduction

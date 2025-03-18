@@ -4,10 +4,10 @@ description: Finsh the given optimization task. (Individual Project)
 published: 2024-05-30 11:01:25
 tags:
 - CS110
-- 计算机体系架构
-- 上科大
-- 计算机科学
-category: 项目
+- Computer Architecture
+- STU
+- CS
+category: Course Project
 ---
 ## Project 4
 

@@ -3,8 +3,8 @@ title: My first blog
 description: This is the first post of my new Astro blog.
 published: 2022-08-12 02:47:49
 tags: 
-- 随笔
-category: 生活
+- Jottings
+category: Life
 ---
 
 这是我的第一条博客，创立个人博客的目的有很多，记录生活（类似日记？），展现上海科技大学最近距离的一面，留下自己在技术上探索的足迹以及经验，锻炼自己的写作表达能力等等。
