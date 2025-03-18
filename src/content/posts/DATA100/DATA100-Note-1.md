@@ -5,7 +5,7 @@ published: 2024-03-26 18:07:36
 tags:
 - DATA100
 - CS
-- 数据科学
+- Data Science
 category: Notes
 ---
 

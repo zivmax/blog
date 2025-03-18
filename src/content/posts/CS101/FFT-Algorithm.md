@@ -4,7 +4,7 @@ description: This is the first post of my new Astro blog.
 published: 2024-01-25 10:26:36
 tags:
     - CS110
-    - 算法
+    - Algorithm
     - CS
 category: Notes
 ---

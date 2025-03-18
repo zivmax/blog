@@ -6,7 +6,7 @@ tags:
 - Unfinished
 - DATA100
 - CS
-- 数据科学
+- Data Science
 category: Notes
 ---
 

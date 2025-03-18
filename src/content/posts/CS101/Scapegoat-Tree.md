@@ -4,7 +4,7 @@ description: 替罪羊树是一种二叉搜索树 (Binary Search Tree) 。通过
 published: 2024-01-25 10:25:07
 tags:
     - CS110
-    - 算法
+    - Algorithm
     - CS
 category: Notes
 ---
