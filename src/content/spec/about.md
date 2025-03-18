@@ -1,9 +1,18 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Currently a undergraduate studying in [ShanghaiTech University](https://www.shanghaitech.edu.cn).
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Interested in wide range of technologies, including:
+- Deep Reinforcement Learning
+- Large Language Model
+- Game Development
+- Web Development
+
+This blog is not just about recording, but also for sharing. 
+
+> ### The Repo of This Blog Site
+>::github{repo="zivmax/blog-fuwari"}
+>
+> ### Sources of My Avatar
+> - [Cappie](https://www.pixiv.net/artworks/126238500) by [ogossi](https://www.pixiv.net/users/101402960)
+>
