@@ -1,6 +1,6 @@
 ---
 title: Neovim Installation
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2024-03-24 11:46:59
 tags:
 - Neovim

@@ -1,6 +1,6 @@
 ---
 title: Docker Engine Proxy Set up
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2024-03-24 09:54:14
 tags:
 - Docker

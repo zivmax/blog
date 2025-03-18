@@ -1,6 +1,6 @@
 ---
 title: CS50X Note [1]
-description: This is the first post of my new Astro blog.
+description: CS50X是我的计算机科学启蒙课，我向来不遗余力地向任何一位想打好基础的新人推荐这门课程。
 published: 2023-03-07 10:10:38
 tags:
 - CS50X
@@ -10,7 +10,7 @@ tags:
 category: Notes
 ---
 
-CS50X是我的计算机科学启蒙课，我向来不遗余力地向任何一位想打好基础的新人推荐这门课程
+CS50X是我的计算机科学启蒙课，我向来不遗余力地向任何一位想打好基础的新人推荐这门课程。
 
 [本篇在CS50X官网的英文原版](https://cs50.harvard.edu/x/2023/notes/1/)
 

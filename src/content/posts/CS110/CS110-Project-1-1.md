@@ -1,6 +1,6 @@
 ---
 title: CS110 Project 1.1
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2024-03-26 11:26:20
 tags:
 - CS110

@@ -1,6 +1,6 @@
 ---
 title: FFT Algorithm
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2024-01-25 10:26:36
 tags:
     - CS110

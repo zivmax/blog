@@ -1,6 +1,6 @@
 ---
 title: CS110 Homework [6]
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2024-05-18 11:21:15
 tags:
 - CS110

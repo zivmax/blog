@@ -1,6 +1,6 @@
 ---
 title: CS100-Project(HW8)
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2023-09-27 10:47:15
 tags:
   - C++

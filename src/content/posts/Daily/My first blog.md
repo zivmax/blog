@@ -1,6 +1,6 @@
 ---
 title: My first blog
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2022-08-12 02:47:49
 tags: 
 - Jottings

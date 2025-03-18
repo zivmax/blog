@@ -1,6 +1,6 @@
 ---
 title: Synchronizing Windows Fonts with WSL for LaTeX Typesetting
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2024-05-15 10:30:00
 tags:
 - WSL

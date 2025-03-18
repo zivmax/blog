@@ -1,6 +1,6 @@
 ---
 title: CS110 Lab [8]
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2024-04-25 11:03:54
 tags:
 - CS110

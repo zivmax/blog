@@ -1,6 +1,6 @@
 ---
 title: CS100 Homework [5]
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2023-04-16 09:16:11
 tags:
   - C++

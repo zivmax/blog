@@ -1,6 +1,6 @@
 ---
 title: ASCII Table
-description: This is the first post of my new Astro blog.
+description: ""
 published: 2024-01-18 17:27:05
 tags:
 - ASCII
